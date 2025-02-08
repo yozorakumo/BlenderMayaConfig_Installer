@@ -4,7 +4,12 @@
 
 ## 概要
 
-このPowerShellスクリプトは、BlenderでカスタムのMayaスタイルのキー設定を適用するプロセスを自動化します。
+このスクリプトは以下のBlenderアドオン向けに作られています:
+- [MayaConfigPro](https://formaffinity.gumroad.com/l/wDpgH?layout=profile&recommended_by=library)
+- [MayaConfigLite](https://formaffinity.gumroad.com/l/FKhQL?layout=profile&recommended_by=library)
+
+
+このスクリプトは、FORMAFFINITY氏による[Maya Config Addon For Blender](https://formaffinity.gumroad.com/l/FKhQL?layout=profile&recommended_by=library)、[Maya Config Pro](https://formaffinity.gumroad.com/l/wDpgH?layout=profile&recommended_by=library)を自動でインストールするために使用できます。
 
 - Blenderのインストールディレクトリを選択
 - `blender.exe` の存在を確認

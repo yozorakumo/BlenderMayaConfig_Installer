@@ -1,9 +1,15 @@
 # Maya Config Installer for Blender
 
-[🇯🇵 日本語はこちら](README_JP.md)
+[🇯🇵 日本語はこちら](README_ja.md)
 
 ## Overview
-This PowerShell script automates the process of configuring Blender to use a custom Maya-style key configuration. It allows users to:
+
+This script is designed for the following Blender add-ons:
+- [MayaConfigPro](https://formaffinity.gumroad.com/l/wDpgH?layout=profile&recommended_by=library)
+- [MayaConfigLite](https://formaffinity.gumroad.com/l/FKhQL?layout=profile&recommended_by=library)
+
+This script can be used to automatically install [Maya Config Addon For Blender](https://formaffinity.gumroad.com/l/FKhQL?layout=profile&recommended_by=library) and [Maya Config Pro](https://formaffinity.gumroad.com/l/wDpgH?layout=profile&recommended_by=library) created by FORMAFFINITY.
+
 - Select a Blender installation directory.
 - Verify the presence of `blender.exe`.
 - Identify the Blender version folder (starting with "4").
