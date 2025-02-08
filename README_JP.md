@@ -1,6 +1,6 @@
 # Mayaコンフィグインストーラー for Blender
 
-[🌍 English version](README_EN.md)
+[🌍 English version](README.md)
 
 ## 概要
 
