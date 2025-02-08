@@ -1,6 +1,6 @@
 # Maya Config Installer for Blender
 
-[🇯🇵 日本語はこちら](README_ja.md)
+[🇯🇵 日本語はこちら](README_JP.md)
 
 ## Overview
 
