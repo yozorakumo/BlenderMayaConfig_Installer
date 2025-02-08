@@ -56,6 +56,7 @@
 - スクリプトは、必要なディレクトリが存在しない場合に自動作成します。
 - Blenderが**ポータブル版**としてインストールされている場合、スクリプトがそれを検出します。
 - ZIPファイルに必要な設定ファイルが含まれていることを確認してください。
+- PowerShellがエラー落ちする場合はSelfSign.ps1でBlenderMayaConfigInstall.ps1に証明書をインストールしてから再度試行して下さい。（Cドライブ直下にBlenderMayaConfigInstall.ps1とSelfSign.ps1を配置した状態でSelfSign.ps1を実行するとBlenderMayaConfigInstall.ps1に証明書がインストールされます）
 
 ## トラブルシューティング
 
