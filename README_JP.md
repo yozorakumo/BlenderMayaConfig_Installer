@@ -35,7 +35,7 @@
    ```
 2. スクリプトのフォルダに移動します:
    ```sh
-   cd YOUR_REPOSITORY
+   cd BlenderMayaConfig_Installer
    ```
 
 ### 2. スクリプトを実行
