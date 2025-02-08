@@ -50,6 +50,7 @@ This script can be used to automatically install [Maya Config Addon For Blender]
 - The script will create necessary directories if they do not exist.
 - If Blender is installed as a **portable version**, the script will attempt to detect it.
 - Ensure the ZIP file contains the required configuration files before running the script.
+- If PowerShell crashes with an error, install a certificate for BlenderMayaConfigInstall.ps1 using SelfSign.ps1 before retrying. (Place BlenderMayaConfigInstall.ps1 and SelfSign.ps1 in the root of the C drive, then run SelfSign.ps1 to install the certificate for BlenderMayaConfigInstall.ps1.)
 
 ## Troubleshooting
 | Issue | Solution |
