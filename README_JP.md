@@ -1,6 +1,7 @@
 # Mayaコンフィグインストーラー for Blender
 
-[🌍 English version](README.md)
+[🇯🇵 日本語](https://yozorakumo.github.io/BlenderMayaConfig_Installer/)
+[🌍 English](https://yozorakumo.github.io/BlenderMayaConfig_Installer/)
 
 ## 概要
 
@@ -35,7 +36,7 @@
    ```
 2. スクリプトのフォルダに移動します:
    ```sh
-   cd BlenderMayaConfig_Installer
+   cd BlenderMayaConfigInstall
    ```
 
 ### 2. スクリプトを実行

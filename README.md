@@ -1,6 +1,7 @@
 # Maya Config Installer for Blender
 
-[🇯🇵 日本語はこちら](README_JP.md)
+[🇯🇵 日本語](https://yozorakumo.github.io/BlenderMayaConfig_Installer/)
+[🌍 English](https://yozorakumo.github.io/BlenderMayaConfig_Installer/)
 
 ## Overview
 
